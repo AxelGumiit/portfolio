@@ -44,7 +44,14 @@ const Projects = () => {
       link: '/projects/Payapp',
       image: '/images/payapp.png',
       tags: ['HTML/Bootstrap', 'Django', 'Docker', 'PostgreSQL'],
-    },    
+    },   
+    {
+      title: 'Baby Album',
+      description: 'A futuristic web app that organizes baby photos using AI tagging and timeline features.',
+      link: '/projects/Album',
+      image: '/images/book-slider.png',
+      tags: ['React', 'Javascript', 'Photoshop'],
+    }, 
   ];
 
   return (
